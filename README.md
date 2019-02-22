@@ -1,4 +1,4 @@
-[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/jacintoarias/docker-mineria/)
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/zorniffler/docker-twitter/)
 
 # docker-mineria
 
@@ -6,7 +6,7 @@ This repository contains the docker image for the data mining course.
 
 This image can be directly obtained from dockerhub at:
 
-https://hub.docker.com/r/jacintoarias/docker-mineria/
+https://hub.docker.com/r/zorniffler/docker-twitter/
 
 ## Launching with docker-compose
 
@@ -16,4 +16,4 @@ directory as a volume on the home directory of the notebook server.
 
 ## Launching directly with docker
 
-`docker run -ti -p 8888:8888 --rm jacintoarias/mineria`
+`docker run -ti -p 8888:8888 --rm zorniffler/mineria`
