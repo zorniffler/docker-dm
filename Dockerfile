@@ -7,6 +7,8 @@ RUN apt-get update ; \
 
 RUN pip3 install --upgrade setuptools
 
+RUN pip3 install Cython
+
 RUN pip3 install -r /tmp/requirements.txt
 
 RUN pip3 install scikit-surprise
