@@ -9,4 +9,4 @@ pydot
 pydotplus
 requests
 tweepy
-beautifulsoup4
+bs4
