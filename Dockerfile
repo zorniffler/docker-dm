@@ -5,6 +5,8 @@ COPY requirements.txt /tmp/
 RUN apt-get update ; \
     apt-get install -y graphviz
 
+RUN pip install numpy --upgrade
+
 RUN pip3 install -r /tmp/requirements.txt
 
 RUN useradd -ms /bin/bash jupyter
