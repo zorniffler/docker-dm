@@ -9,6 +9,8 @@ RUN pip3 install --upgrade setuptools
 
 RUN pip3 install -r /tmp/requirements.txt
 
+RUN pip3 install scikit-surprise
+
 RUN useradd -ms /bin/bash jupyter
 
 USER jupyter
