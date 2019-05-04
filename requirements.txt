@@ -9,4 +9,3 @@ pydot
 pydotplus
 requests
 tweepy
-surprise
