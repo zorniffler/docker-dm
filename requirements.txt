@@ -1,4 +1,4 @@
-numpy==1.11.2
+numpy
 pandas
 scipy
 matplotlib
@@ -9,4 +9,3 @@ pydot
 pydotplus
 requests
 tweepy
-surprise
