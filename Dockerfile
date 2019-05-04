@@ -3,7 +3,7 @@ FROM python:3.6-slim
 COPY requirements.txt /tmp/
 
 RUN apt-get update ; \
-    apt-get install -y graphviz
+    apt-get install -y graphviz ; apt-get install python3-dev
 
 RUN pip3 install --upgrade setuptools
 
