@@ -10,3 +10,4 @@ pydotplus
 requests
 tweepy
 beautifulsoup4
+xlrd
