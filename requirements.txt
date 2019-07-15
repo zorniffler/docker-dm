@@ -11,3 +11,4 @@ requests
 tweepy
 beautifulsoup4
 xlrd
+minisom
