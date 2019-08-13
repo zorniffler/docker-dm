@@ -12,4 +12,5 @@ tweepy
 beautifulsoup4
 xlrd
 minisom
+tensorflow
 Keras
