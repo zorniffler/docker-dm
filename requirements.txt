@@ -14,3 +14,5 @@ xlrd
 minisom
 tensorflow
 Keras
+sqlalchemy
+ipython-sql
