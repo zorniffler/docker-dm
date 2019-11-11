@@ -16,4 +16,3 @@ tensorflow
 Keras
 sqlalchemy
 ipython-sql
-sqlite3
