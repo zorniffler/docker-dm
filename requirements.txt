@@ -16,3 +16,4 @@ tensorflow
 Keras
 sqlalchemy
 ipython-sql
+selenium
